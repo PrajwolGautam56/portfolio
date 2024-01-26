@@ -24,7 +24,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am  Web Developer | Graphic Designer   <br className='sm:block hidden' />
-            Photographer | Cintent Writter .
+            Photographer | Content Writter .
           </p>
             <br></br>
           <div className='w-[200px] h-[44px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
